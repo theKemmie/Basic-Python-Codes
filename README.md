@@ -7,6 +7,7 @@
 <!-- end -->
 
 These are basic python [programs](https://github.com/KemmieKemy/Basic-Python-Codes/tree/master/Programs) for beginners.
-* [Programs]() - Basic python codes for beginners.
+* [Programs](https://github.com/KemmieKemy/Basic-Python-Codes/tree/master/Programs) - A folder that contains basic python codes for beginners.
 * [Contributing.md](https://github.com/KemmieKemy/Basic-Python-Codes/blob/master/CONTRIBUTING.md) - The contribution guidelines for this project.
+* [Description.md](https://github.com/KemmieKemy/Basic-Python-Codes/blob/master/Description.md) - An explanation of the codes in the Programs folder.
 
