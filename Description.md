@@ -7,4 +7,5 @@
 * Guessing Game1: In this game, there is a list of words present, out of which our interpreter will choose 1 random word. <br>
 The user first has to input their names and then, will be asked to guess any alphabet. <br>
 If the random word contains that alphabet, it will be shown as the output(with correct placement) else the program will ask you to guess another alphabet.<br>
-User will be given 12 turns(can be changed accordingly) to guess the complete word.
+User will be given 12 turns(can be changed accordingly) to guess the complete word. <br>
+* Welcome Message: A program that allows a user to input his or her name with the favorite programming language. The user is then given a welcome message. <br>
