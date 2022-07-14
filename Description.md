@@ -1,5 +1,6 @@
 # Description of the Python Programs;
 * Check Specific Number : A python program to find all the values in a list are greater than a specified number.
+* Calendar : A Python code to print calendar for the year 2022 using the calendar function.
 * Multiplication Table : A python program to create the multiplication table (from 1 to 10) of a number. 
 * Name - Greeting : Contains a function that takes in a name and returns a greeting.
 * LCM : A Python program to find the Least Common Multiple (LCM) of two positive integers.
@@ -8,6 +9,6 @@
 The user first has to input their names and then, will be asked to guess any alphabet. <br>
 If the random word contains that alphabet, it will be shown as the output(with correct placement) else the program will ask you to guess another alphabet.<br>
 User will be given 12 turns(can be changed accordingly) to guess the complete word. <br>
-* Prime Numbers: A Python program for displaying all prime numbers within a certain range. <br>
-* Welcome Message: A program that allows a user to input his or her name with the favorite programming language. The user is then given a welcome message. <br>
+* Prime Numbers: A Python program for displaying all prime numbers within a certain range. 
+* Welcome Message: A program that allows a user to input his or her name with the favorite programming language. The user is then given a welcome message. 
 * Count Words in a Sentence: A program that gets a sentence from a user and outputs the sentence and the total number of words. <br>
