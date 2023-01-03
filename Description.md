@@ -11,4 +11,5 @@ If the random word contains that alphabet, it will be shown as the output(with c
 User will be given 12 turns(can be changed accordingly) to guess the complete word. <br>
 * Prime Numbers: A Python program for displaying all prime numbers within a certain range. 
 * Welcome Message: A program that allows a user to input his or her name with the favorite programming language. The user is then given a welcome message. 
-* Count Words in a Sentence: A program that gets a sentence from a user and outputs the sentence and the total number of words. <br>
+* Count Words in a Sentence: A program that gets a sentence from a user and outputs the sentence and the total number of words. 
+* Reverse_words: Takes a string as input and returns a string with the words reversed. This function first splits the input text into a list of words using the split() method. It then reverses the list of words using slicing notation ([::-1]). Finally, it joins the reversed list of words back into a single string using the join() method. <br>
